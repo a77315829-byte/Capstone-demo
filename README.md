@@ -1,5 +1,4 @@
-<div align="center">
-  <img src="./assets/logo.png" alt="Logo" width="80" height="80">
+
 
 # STOTRA 기반 주식 교육 · 시뮬레이션 프로토타입
 
