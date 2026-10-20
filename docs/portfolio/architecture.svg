@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="620" viewBox="0 0 1600 620">
+<rect width="100%" height="100%" fill="white"/>
+<g font-family="Malgun Gothic, Noto Sans CJK KR, sans-serif">
+<text x="35" y="38" font-size="30" fill="#4964ce" font-weight="700" text-anchor="start">PROTOTYPE / REQUEST + RESPONSE</text>
+<text x="35" y="71" font-size="22" fill="#64718a" font-weight="400" text-anchor="start">ANTITUDE 초기 버전 / STOTRA 기반 화면과 시뮬레이터 연동을 탐색</text>
+<rect x="40" y="110" width="470" height="420" rx="17" fill="#f3f6fc" stroke="#d3dced" stroke-width="2"/>
+<text x="60" y="145" font-size="23" fill="#64718a" font-weight="700" text-anchor="start">브라우저</text>
+<rect x="580" y="110" width="400" height="420" rx="17" fill="#f3f6fc" stroke="#d3dced" stroke-width="2"/>
+<text x="600" y="145" font-size="23" fill="#64718a" font-weight="700" text-anchor="start">서비스</text>
+<rect x="1050" y="110" width="510" height="420" rx="17" fill="#f3f6fc" stroke="#d3dced" stroke-width="2"/>
+<text x="1070" y="145" font-size="23" fill="#64718a" font-weight="700" text-anchor="start">시뮬레이션</text>
+<polyline points="460,287 625,287" fill="none" stroke="#4964ce" stroke-width="3"/>
+<polygon points="625,287 614.1946347717678,292.21958640933474 614.1946347717678,281.78041359066526" fill="#4964ce"/>
+<polyline points="935,287 1100,287" fill="none" stroke="#4964ce" stroke-width="3"/>
+<polygon points="1100,287 1089.1946347717678,292.21958640933474 1089.1946347717678,281.78041359066526" fill="#4964ce"/>
+<polyline points="1100,342 935,342" fill="none" stroke="#4964ce" stroke-width="3"/>
+<polygon points="935,342 945.8053652282322,336.78041359066526 945.8053652282322,347.21958640933474" fill="#4964ce"/>
+<polyline points="625,342 460,342" fill="none" stroke="#4964ce" stroke-width="3"/>
+<polygon points="460,342 470.8053652282321,336.78041359066526 470.8053652282321,347.21958640933474" fill="#4964ce"/>
+<rect x="90" y="260" width="370" height="105" rx="14" fill="#ffffff" stroke="#d3dced" stroke-width="2"/>
+<text x="275.0" y="307.5" font-size="28" fill="#172842" font-weight="700" text-anchor="middle">React · TypeScript</text>
+<text x="275.0" y="339.5" font-size="22" fill="#64718a" font-weight="400" text-anchor="middle">투자 교육 화면</text>
+<rect x="625" y="260" width="310" height="105" rx="14" fill="#ffffff" stroke="#d3dced" stroke-width="2"/>
+<text x="780.0" y="307.5" font-size="28" fill="#172842" font-weight="700" text-anchor="middle">Node / Express API</text>
+<text x="780.0" y="339.5" font-size="22" fill="#64718a" font-weight="400" text-anchor="middle">화면 요청 처리</text>
+<rect x="1100" y="260" width="410" height="105" rx="14" fill="#ffffff" stroke="#d3dced" stroke-width="2"/>
+<text x="1305.0" y="307.5" font-size="28" fill="#172842" font-weight="700" text-anchor="middle">Python 시뮬레이터</text>
+<text x="1305.0" y="339.5" font-size="22" fill="#64718a" font-weight="400" text-anchor="middle">시장·학습 흐름 탐색</text>
+<rect x="506" y="248" width="50.0" height="30" rx="5" fill="white"/>
+<text x="510" y="271" font-size="21" fill="#4964ce" font-weight="400" text-anchor="start">요청</text>
+<rect x="986" y="248" width="50.0" height="30" rx="5" fill="white"/>
+<text x="990" y="271" font-size="21" fill="#4964ce" font-weight="400" text-anchor="start">연동</text>
+<rect x="986" y="388" width="50.0" height="30" rx="5" fill="white"/>
+<text x="990" y="411" font-size="21" fill="#4964ce" font-weight="400" text-anchor="start">결과</text>
+<rect x="476" y="388" width="99.0" height="30" rx="5" fill="white"/>
+<text x="480" y="411" font-size="21" fill="#4964ce" font-weight="400" text-anchor="start">화면 갱신</text>
+</g>
+</svg>
